@@ -1,5 +1,4 @@
 # **HELLO WORLD**
-![GIF of Hello World]()
 
 
 In This Repository, You'll see some of The Famous or Easiest Computer Program _Hello World!_ . It is Known as the first example in nearly every programming language for every programmer. It is Nothing but The First example of any programming language to learn the basics of Any Programming Language. As a function, the computer program simply tells the computer to display the words “Hello, World!” Traditionally, it’s the first program developers use to test systems. For programmers, seeing the two words on the screen means their code can compile, load, run and they can see the output on the screen. It’s a test, signifying a start to a program. Over the past several decades, it’s grown to become a time-honored tradition.  All programmers that have come before you have, at some point, felt the same rush of adrenaline after realizing they successfully communicated through the computer.
